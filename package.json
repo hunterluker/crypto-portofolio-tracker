@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "halogen": "^0.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-feather": "^1.1.6",
+    "react-particles-js": "^2.6.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "reaviz": "^2.3.0",
+    "styled-components": "^4.2.1",
+    "styled-reset": "^2.0.14"
   },
   "scripts": {
     "start": "react-scripts start",
